@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onlyrein&label=Profile%20views&color=0e75b6&style=flat" alt="onlyrein" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onlyrein" alt="onlyrein" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OnlyRein" alt="OnlyRein" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **RellBots and Minecraft Server Development**
+- 🔭 I’m currently working on ****
 
 - 🌱 I’m currently learning **Nodejs**
 
-- 👯 I’m looking to collaborate on **Nodejs Project**
+- 👯 I’m looking to collaborate on ****
 
 - 🤝 I’m looking for help with **Discord**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about ****
 
 - 📫 How to reach me **farelcuy122@gmail.com**
 
