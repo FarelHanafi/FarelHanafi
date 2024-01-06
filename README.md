@@ -11,7 +11,7 @@ Hello, everyone! My name is Rein, and I reside in Indonesia. My favorite hobby i
 ![](https://github-readme-stats.vercel.app/api?username=OnlyRein&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=OnlyRein&theme=dark&hide_border=true)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OnlyRein&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=OnlyRein&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+[![](https://github-profile-trophy.vercel.app/?username=OnlyRein&theme=discord&no-frame=false&no-bg=false&margin-w=4)](https://github-profile-trophy.vercel.app/?username=OnlyRein&theme=discord&no-frame=false&no-bg=false&margin-w=-1&margin-h=0&row=1&column=9)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=OnlyRein&limit=5&theme=dark&combine_all_yearly_contributions=true)
