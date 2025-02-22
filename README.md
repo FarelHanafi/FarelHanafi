@@ -60,9 +60,6 @@
 
 ###
 
-###
-
-###
 
 <div align="center">
   <a href="https://www.youtube.com/@Fayreinn" target="_blank">
@@ -83,7 +80,7 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/FarelHanafi/FarelHanafi/blob/output/github-contribution-grid-snake2.svg"  />
+<img src="https://github.com/FarelHanafi/FarelHanafi/blob/output/github-contribution-grid-snake.svg"  />
 </div>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farelhanafi" alt="farelhanafi" /></a> </p>
