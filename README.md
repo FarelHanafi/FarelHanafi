@@ -1,4 +1,4 @@
-<h2 align="center">Hello, my name is Rein, and I live in Indonesia. I love exploring the virtual world and taking on thrilling challenges. Nice to meet you all!</h2>
+<h2 align="center">Hello👋, my name is Rein, and I live in Indonesia. I love exploring the virtual world and taking on thrilling challenges. Nice to meet you all!</h2>
 
 ###
 
@@ -13,21 +13,54 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="31" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="31" alt="typescript logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="31" alt="react logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="31" alt="jest logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="31" alt="storybook logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="31" alt="discordjs logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="31" alt="nodejs logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="31" alt="vuejs logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="31" alt="nextjs logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="31" alt="flutter logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="31" alt="dart logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="31" alt="php logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="31" alt="go logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="31" alt="mysql logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="31" alt="postgresql logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="31" alt="mongodb logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="31" alt="androidstudio logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/apache/D22128" height="31" alt="apache logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="31" alt="c logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="31" alt="cplusplus logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=cs" height="31" alt="csharp logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="31" alt="tailwindcss logo"  />
 </div>
 
+###
+
+###
 
 ###
 
@@ -50,11 +83,15 @@
 </div>
 
 <div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<img src="https://github.com/FarelHanafi/FarelHanafi/blob/output/github-contribution-grid-snake2.svg"  />
 </div>
 
-###
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farelhanafi" alt="farelhanafi" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farelhanafi&show_icons=true&theme=dark&locale=en&layout=compact" alt="farelhanafi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farelhanafi&theme=dark" alt="farelhanafi" /></p>
